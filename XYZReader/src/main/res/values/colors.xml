@@ -1,0 +1,30 @@
+<!-- File created by the Android Action Bar Style Generator
+
+     Copyright (C) 2012 readyState Software Ltd
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <color name="photo_placeholder">#ccc</color>
+
+    <color name="theme_primary">#3F51B5</color>
+    <color name="theme_primary_dark">#303F9F</color>
+    <color name="theme_accent">#ED3BD8</color>
+    <color name="ltgray">#ffe0e0e0</color>
+    <color name="expanded_toolbar">@color/theme_primary</color>
+    <color name="collapsed_toolbar">#7986CB</color>
+    <color name="default_palette_color"> #1A237E</color>
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+</resources>
